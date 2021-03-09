@@ -10,7 +10,7 @@ And minified it to reduce space.
 To download it to global variables:
 
 
-### GET: https://raw.githubusercontent.com/plambrechtsen/postman-totp/TOTP.js
+### GET: https://raw.githubusercontent.com/plambrechtsen/postman-totp/main/TOTP.js
 ### Tests:
 ```
 pm.test("Status code is 200", function () {
